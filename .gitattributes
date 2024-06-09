@@ -1,2 +1,3 @@
 *.css linguist-language=Python  # 我的项目中css文件较多
 *.py linguist-language=Python  # 我的项目中css文件较多
+*.m linguist-language=Python  # 我的项目中css文件较多
