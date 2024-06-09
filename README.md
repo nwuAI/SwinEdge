@@ -9,13 +9,11 @@ If you are prompted for no packages **, please enter pip install * * to install 
 - Download the  [BSDS500](http://vcl.ucsd.edu/hed/HED-BSDS.tar) ,the [NYUDv2](http://vcl.ucsd.edu/hed/nyu/) provided by [HED](https://github.com/s9xie/hed) 
 - and the [Multicue](https://serre-lab.clps.brown.edu/resource/multicue/)
 
-### Pretrained Models
-- Download the pretrained model on quark disk
-- [Pretrained model for BSDS500](https://pan.quark.cn/s/2859b320f844)
-- [Pretrained model for NYUDv2](https://pan.quark.cn/s/c60610c63b6b)
+## Train
+Enter python train.py to run the code. If you are prompted for no packages, enter pip install * * to install dependent packages
 
-### Training
-- Download the pre-trained [swin-transformer](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_large_patch4_window7_224_22k.pth) model, and put it to "./pretrained" folder.
+## Inference
+After training, you can use the python test.py to validate your model.
 
 ## Acknowledgment
 We acknowledge the effort from the authors of HED, CATS, EDTER on edge detection. Their researches laid the foundation for this work.
