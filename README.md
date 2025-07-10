@@ -17,13 +17,13 @@ After training, you can use the python test.py to validate your model.
 
 ## Citation
 ```
-@article{li2024MSSwin,
-  title={MS-Swin: Multiple Scale bi-direction fusion Swin Transformer for edge detection},
-  author={Zhan Li, Zichang Wang, Han Zhang, Yuning Wang, Jin Xue, Xiaolong Ma, Yongqin Zhang},
+@article{li2025SwinEdge,
+  title={SwinEdge: Bidirectional Multscale Swin Feature Fusion for Edge Detection},
+  author={Zhan Li, Han Zhanga,Zichang Wang, Yuning Wang, Hui Fang, Xiaolong Ma, Xunli Fan},
   journal={},
   pages={},
-  year={2024},
-  publisher={IEEE}
+  year={2025},
+  publisher={Elesiver}
 }
 ```
 
